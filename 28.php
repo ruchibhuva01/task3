@@ -1,4 +1,4 @@
 <?php
-$student=array("name"=>"sarjita","age"=>20,"city"=>"bangavdi","sname"=>"sarjita","sage"=>20);
+$student=array("name"=>"ruchi","age"=>20,"city"=>"gondal","sname"=>"ruchi","sage"=>20);
 print_r(array_unique($student));
 ?>
